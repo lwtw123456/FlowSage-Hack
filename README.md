@@ -1,6 +1,6 @@
 # FlowSage-Hack
 FlowSage 是一款面向 CTF 与流量取证场景的桌面分析工具，技术栈是Go + Wails + VMProtect 的程序逆向，
-本项目为练习型逆向项目，实现了 FlowSage 所有功能解锁，实测v4.0.0。
+本项目为练习型逆向项目，实现了 FlowSage 所有功能解锁，实测 **v4.0.0**。
 
 ## 有哪些保护
 die 竟然分析不出来 VMProtect 的版本：
